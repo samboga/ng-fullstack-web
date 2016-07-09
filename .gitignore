@@ -26,6 +26,7 @@ build/Release
 # Dependency directories
 node_modules
 jspm_packages
+client/bower_components
 
 # Optional npm cache directory
 .npm
@@ -68,6 +69,7 @@ Temporary Items
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+.tmp
 
 # Folder config file
 Desktop.ini
